@@ -11,8 +11,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Isaac Newton's Trophy Wife"
-description:	       "summer ponderings"
-author:              "sophie gee"
+description:	       "Summertime ponderings"
+author:              "Sophie Gee"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
