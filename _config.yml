@@ -10,7 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Isaac Newton's Trophy Wife"
+title:		           "Polynomial Polly Pocket"
 description:	       "Summertime ponderings"
 author:              "Sophie Gee"
 
