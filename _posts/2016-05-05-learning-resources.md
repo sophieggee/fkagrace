@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
+title: "Elbow Grease"
+author: "Sophie Gee"
 categories: resources
 tags: [documentation,sample]
 image: 4E35AC97-A0E8-45F5-AAFF-59B27627411C.jpeg

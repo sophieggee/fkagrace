@@ -1,13 +1,12 @@
 # Change 'comments' to true for Disqus comments
 disqus:
-  comments: true
+  comments: false
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: ''
 
 menu:
-- {name: 'Posts',              url: 'sample-posts'}
 - {name: 'About This Girl',    url: 'about'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
