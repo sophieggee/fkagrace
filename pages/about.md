@@ -7,7 +7,7 @@ permalink: /about
 
 I'm so happy you're here! Because I have a lot to say.
 
-I would like to announce that the intent of this blog is similar to that of a weekly newsletter. Although, I’m a lady well-acquainted with the anxiety of an email inbox, and I am not particularly interested in being associated with those emotions. So here we find ourselves (on a painfully generic pre-packaged blog that I found on the internet and cloned to my IDE of choice because i am constantly trying to _Prove a Point to No One_), and there are **almost** no rules! 
+I would like to announce that the intent of this blog is similar to that of a weekly newsletter. Although, I’m a lady well-acquainted with the anxiety of an email inbox, and I am not particularly interested in being associated with those emotions. So here we find ourselves (on a painfully generic pre-packaged blog that I found on the internet and cloned to my IDE of choice because I am constantly trying to _Prove a Point to No One_), and there are **almost** no rules! 
 
 You may notice that there is no way to comment on any of the posts. Instead, I would be delighted if you would email me any and all of your thoughts at any time. You can do so by clicking the tiny envelope in the upper right hand corner of this very page.
 
