@@ -1,9 +1,10 @@
 ---
 layout: page
-title: What is *This Wild Place*
+title: What is This Wild Place!
 permalink: /about
+image: me-having-fun.JPEG
 ---
-![Me Having Fun](https://github.com/sophieggee/fkagrace/blob/aca62f3aebf22ebd1db6053c12b17cf385c033a4/assets/img/me-having-fun.JPEG "Me Having Fun")
+![Me Having Fun](me-having-fun.JPEG "Me Having Fun")
 
 I'm so happy you're here! Because I have a lot to say.
 
