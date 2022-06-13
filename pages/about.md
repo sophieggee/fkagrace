@@ -3,7 +3,7 @@ layout: page
 title: What is This Wild Place!
 permalink: /about
 ---
-<!-- ![Me Having Fun](me-having-fun.JPEG "Me Having Fun") -->
+![Me Having Fun](https://raw.githubusercontent.com/sophieggee/fkagrace/cfec23c20de88ce9d4213e73f7abfcb82ac3ffc3/assets/img/me-having-fun.JPEG "Me Having Fun")
 
 I'm so happy you're here! Because I have a lot to say.
 
