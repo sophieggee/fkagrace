@@ -2,9 +2,8 @@
 layout: page
 title: What is This Wild Place!
 permalink: /about
-image: me-having-fun.JPEG
 ---
-![Me Having Fun](me-having-fun.JPEG "Me Having Fun")
+<!-- ![Me Having Fun](me-having-fun.JPEG "Me Having Fun") -->
 
 I'm so happy you're here! Because I have a lot to say.
 
