@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About Greta Grace
+title: What is *This Wild Place*
 permalink: /about
 ---
-![Me Having Fun](https://github.com/sophieggee/fkagrace/blob/aca62f3aebf22ebd1db6053c12b17cf385c033a4/assets/img/me-having-fun.JPEG)
+![Me Having Fun](https://github.com/sophieggee/fkagrace/blob/aca62f3aebf22ebd1db6053c12b17cf385c033a4/assets/img/me-having-fun.JPEG "Me Having Fun")
 
 I'm so happy you're here! Because I have a lot to say.
 
@@ -29,6 +29,7 @@ As a parting treat, may I offer you alternate name ideas for this site:
 * pescatarian princess 
 * affine young woman 
 * gititgirl 
+* polynomial polly pocket
 * she’s sophie and she’s grace she’s miss united states 
 
 
