@@ -84,13 +84,13 @@
   padding-bottom: .5rem;
   font-family: $base-font-family;
 }
-@media (max-width: $container-width) {
-  .related-thumbnail{
-    width: 60vw;
-  }
-}
-@media (max-width: $tablet-width) {
-  .related-thumbnail{
-    width: 95vw;
-  }
-}
+// @media (max-width: $container-width) {
+//   .related-thumbnail{
+//     width: 60vw;
+//   }
+// }
+// @media (max-width: $tablet-width) {
+//   .related-thumbnail{
+//     width: 95vw;
+//   }
+// }
