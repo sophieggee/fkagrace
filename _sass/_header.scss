@@ -11,13 +11,15 @@
     min-height: 56px;
     width: 95vw;
     position: fixed;
+    
     background-color: white;
-    box-shadow: 0 5px 6px -6px #bbb;
+    // box-shadow: 0 5px 6px -6px #bbb;
     z-index: 100;
   }
 }
 .site-header a {
   text-decoration: none;
+  text-decoration-color: #ffccff;
 }
 .site-title {
   font-size: 26px;

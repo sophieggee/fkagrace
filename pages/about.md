@@ -3,7 +3,7 @@ layout: page
 title: About Greta Grace
 permalink: /about
 ---
-![Me Having Fun](me-having-fun.JPEG)
+![Me Having Fun](https://github.com/sophieggee/fkagrace/blob/aca62f3aebf22ebd1db6053c12b17cf385c033a4/assets/img/me-having-fun.JPEG)
 
 I'm so happy you're here! Because I have a lot to say.
 
@@ -18,17 +18,17 @@ There are a lot of motivating forces behind this blog, i.e. my instagram hiatus,
 I can only assume that similar existential temptations will plague me this summer, as I am home again, and in an eerily similar headspace. So here I am, and here you are, and I just hope you enjoy.
 
 As a parting treat, may I offer you alternate name ideas for this site:
-lady of beaver lake
-picsart picasso
-kid sister
-little miss elliott smith
-america’s next top language model
-abstract vector space thirst trap
-senorita music video @ blog spot 
-reformed motavator
-pescatarian princess 
-affine young woman 
-gititgirl 
-she’s sophie and she’s grace she’s miss united states 
+* lady of beaver lake
+* picsart picasso
+* kid sister
+* little miss elliott smith
+* america’s next top language model
+* abstract vector space thirst trap
+* senorita music video @ blog spot 
+* reformed motavator
+* pescatarian princess 
+* affine young woman 
+* gititgirl 
+* she’s sophie and she’s grace she’s miss united states 
 
 
