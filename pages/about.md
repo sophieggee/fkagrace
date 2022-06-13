@@ -15,9 +15,10 @@ Okay I am fairly certain that is the end of the rules.
 
 There are a lot of motivating forces behind this blog, i.e. my instagram hiatus, living in my hometown with my parents at 21, the freedom a lack of rigorous schoolwork brings, but most romantic: my desire for a **creative outlet**. In summer of 2020, I started writing in my notes app every night before bed. It became a sort of routine: I would turn off all of the lights, start playing [whatever playlist](https://open.spotify.com/playlist/1V1In2SScaYfSSz3hjYQlJ?si=0b6e71c94e394e04) I had made for the season, go outside to my roof, see if there was anything noteworthy about the night, decide there was but I was tired anyway, come back inside, browse [Pinterest](https://www.pinterest.com/sophieggeee/_saved/), and write random thoughts about life and love in my notes app on my laptop. 
 
-I can only assume that similar existential temptations will plague me this summer, as I am home again, and in an eerily similar headspace. So here I am, and here you are, and I just hope you enjoy.
+I can only assume that similar existential temptations will plague me this summer, as I am home again and in an eerily similar headspace. So here I am, and here you are, and I just hope you enjoy.
 
 As a parting treat, may I offer you alternate name ideas for this site:
+
 * lady of beaver lake
 * picsart picasso
 * kid sister
