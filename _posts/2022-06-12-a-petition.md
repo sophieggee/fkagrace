@@ -7,6 +7,6 @@ tags: [sample]
 image: marry-me.JPEG
 ---
 
-a world where these two songs unite in holy matrimony. when can i sign up? pass the CLIPBOARD!
+A world where these two songs unite in holy matrimony. When can i sign up? Pass the CLIPBOARD!
 
-and in fact, i would love for someone to respond to meeting me by saying, “charmed!” and neither of us doubt just how much they mean it. 
+And in fact, I would love for someone to respond to meeting me by saying, “charmed!” and neither of us doubt just how much they mean it. 
