@@ -8,7 +8,9 @@ markdown:            kramdown
 highlighter:         rouge
 permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
-url:                 "//fkagrace.com"
+domain:              fkagrace.com      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url:                 https://fkagrace.com  # the base hostname and protocol for your site, e.g. http://example.com
+#baseurl: /REPOSITORY-NAME/      # place folder name if the site is served in a subfolder
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Formerly (and sometimes currently) Known As Grace"
