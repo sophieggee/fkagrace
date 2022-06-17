@@ -4,7 +4,7 @@ title: "Pretty Impossible Lady"
 author: "Myself"
 categories: documentation
 tags: [documentation,sample]
-image: bedroom-lady.jpg
+image: kimya-dawson.jpg
 ---
 
 I’ve always been a **Goal-Oriented Gal**. It was probably aided by my love of stationery, but I have been crafting daily to-do lists, “summer bucket list”s, goal sheets, and vision boards since I was sentient. I think I love this about myself. I can’t say that all of these manifestations have come to fruition, but I can say that they’ve been at one point immortalized in some form of cool-toned pink pen. And that is just about as commendable as it gets.
@@ -25,6 +25,6 @@ Reading Bell Hooks’ definition of True Love: *“The will to extend oneself fo
 
 - Giving myself the grace and space to feel appropriate emotions and learn what sorts of boundaries are most helpful and healing.
 
-![Big Girl Goals](https://raw.githubusercontent.com/sophieggee/fkagrace/cfec23c20de88ce9d4213e73f7abfcb82ac3ffc3/assets/img/me-having-fun.JPEG "Big Girl Goals")
+![Big Girl Goals](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/big-girl-goals.png "Big Girl Goals")
 
 Aside from internal and existential contemplation, I have been enjoying the band CAKE, especially [their rendition of Doris Day’s "Perhaps, Perhaps, Perhaps"](https://open.spotify.com/track/056bAgyXJrvqWzESDcU4CJ?si=9c8e139e9c084367).
