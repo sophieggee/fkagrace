@@ -6,6 +6,7 @@
   //box-shadow: 0 5px 6px -6px #bbb;
   z-index: 100;
   text-decoration-color: #ffccff;
+  color: rgb(221, 29, 234);
 }
 @media (max-width: $container-width) {
   .site-header {
@@ -17,11 +18,13 @@
     // box-shadow: 0 5px 6px -6px #bbb;
     z-index: 100;
     text-decoration-color: #ffccff;
+    color: rgb(221, 29, 234);
   }
 }
 .site-header a {
   text-decoration: none;
   text-decoration-color: #ffccff;
+  color: rgb(221, 29, 234);
 }
 .site-title {
   font-size: 26px;
@@ -37,6 +40,7 @@
 .menu-list {
   line-height: $header-thickness;
   float: right;
+  color: rgb(221, 29, 234);
 }
 .menu-link {
   padding: 5px 10px;
