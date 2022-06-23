@@ -89,7 +89,7 @@ There are countless ways to say little prayers to your friends and also the worl
 
 
 ## Teach Them About Web Sockets
-![Longing Looks](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/web-sockets.jpeg "Longing Looks")
+![Longing Looks](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/web-socket.jpeg "Longing Looks")
 
 
 
