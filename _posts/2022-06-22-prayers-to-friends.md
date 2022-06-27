@@ -6,16 +6,25 @@ categories: documentation
 tags: [documentation,sample]
 image: prayer-hands.JPEG
 ---
+<br/>
+
+![Hold This](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/leave-them-better.jpg "Leave Them Better")
+
 There are countless ways to say little prayers to your friends and also the world around you. Some of my favorites include:
 
 
+<br/> 
 
 ## Hold Hands
 ![Hold This](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/hold-hands.jpeg "Hold This")
 ![Hold That](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/wedding-soon.jpeg "Hold That")
 ![Hold Here](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/tuck-in.jpeg "Hold That")
-
-
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+  
 
 
 ## Listen Good
@@ -26,8 +35,11 @@ There are countless ways to say little prayers to your friends and also the worl
 ![Listen](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/listen.JPG "Listen")
 ![Listen Good](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/frightful-recounting.jpeg "Listen Good")
 
-
-
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
 
 
 ## Tell Them Secrets
@@ -35,7 +47,20 @@ There are countless ways to say little prayers to your friends and also the worl
 ![Nail Painting](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/nail-painting.jpg "Nail Painting")
 ![Phone call](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/phone-call.jpg "Phone call")
 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
 
+## Stand On A Chair To Do It
+![Longing Looks](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/gift-giving.JPG "Longing Looks")
+
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
 
 
 
@@ -48,13 +73,16 @@ There are countless ways to say little prayers to your friends and also the worl
 ![Tickle](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/hair-tickler.jpeg "Tickle")
 ![Haircut](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/haircut.jpeg "Haircut")
 
-
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
 
 
 
 ## Tuck Them In
 ![Longing Looks](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/longing-gaze.jpeg "Longing Looks")
-![Longing Looks](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/tuck-in.jpeg "Longing Looks")
 ![Longing Looks](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/tuck-in-blanket.jpg "Longing Looks")
 ![Longing Looks](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/tuck-me-in.jpeg "Longing Looks")
 ![Longing Looks](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/tuck-them-in.jpeg "Longing Looks")
@@ -62,48 +90,71 @@ There are countless ways to say little prayers to your friends and also the worl
 ![Longing Looks](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/little-women.jpeg "Longing Looks")
 ![Longing Looks](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/spooning.jpeg "Longing Looks")
 
-
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
 
 
 ## Code For Them
 ![Longing Looks](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/coding-during-lunch.jpeg "Longing Looks")
 
 
-
+<br/> 
+<br/> 
+<br/>
+<br/> 
+<br/>  
 
 ## Read Them Poetry at Open Mic Night
 ![Longing Looks](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/poem.jpeg "Longing Looks")
 
-
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
 
 
 ## Read Them the Scary Texts Boys Send You
 ![Longing Looks](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/reciting-text-from-boy.jpg "Longing Looks")
-
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
 
 
 
 ## Take Out Their Contacts for Them When They're Scared
 ![Longing Looks](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/crippling-fear-of-touching-ones-own-eyes.jpeg "Longing Looks")
 
-
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
 
 ## Teach Them About Web Sockets
 ![Longing Looks](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/web-socket.jpeg "Longing Looks")
 
-
-
-
-## Stand On A Chair To Do It
-![Longing Looks](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/gift-giving.JPG "Longing Looks")
-
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
 
 
 ## Lay On Any Kind of Lawn
 ![Longing Looks](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/lawn-gab.JPG "Longing Looks")
 ![Longing Looks](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/lawn-time.JPG "Longing Looks")
 ![Longing Looks](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/library-break.jpeg "Longing Looks")
-
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
 
 
 ## Do Math Outdoors
