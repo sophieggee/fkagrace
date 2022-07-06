@@ -9,9 +9,8 @@ image: comb.JPEG
 
 ## Something I Read in a Book
 
-**"I treat myself like I would my daughter. I brush her hair, wash her laundry, tuck her in goodnight. Most importantly, I feed her. I do nt punish her. I do not berate her, leave tears staining her face. I do not leave her alone. I know she deserves more. I know I deserve more."**
+**"I treat myself like I would my daughter. I brush her hair, wash her laundry, tuck her in goodnight. Most importantly, I feed her. I do not punish her. I do not berate her, leave tears staining her face. I do not leave her alone. I know she deserves more. I know I deserve more."**
 
-<br/>
 
 I've always loved this sentiment. Of course, I believe there are many takeaways here - one being the undertone of encouraging intuitive eating, discouraging diet culture and negative self talk - but I have been able to enjoy further applications of this analogy in my own life.
 
@@ -19,7 +18,7 @@ For example, sometimes I really do not want to get out of a comfortable position
 
 Thinking in this way fills my short walk to the bathroom with a newfound whimsy that carries an irrefutable task. Suddenly, I am being **taken care of** and **I know why**.
 
-Aside from willing myself to do things I may have otherwise put off, I also find myself endulging in healthy pleasures. I let myself dance through public spaces, I allow my bare feet to touch the freshly mowed grass of summertime (while making a point to wash those same feet before tucking myself into a morning-made bed), I stop at the nondescript antique store in a town I've never heard of simply because the window display made me audibly gasp. 
+Aside from willing myself to do things I may have otherwise put off, I also find myself indulging in healthy pleasures. I let myself dance through public spaces, I allow my bare feet to touch the freshly mowed grass of summertime (while making a point to wash those same feet before tucking myself into a morning-made bed), I stop at the nondescript antique store in a town I've never heard of simply because the window display made me audibly gasp. 
 
 I do these things for myself because it is so easy for me to imagine doing them for a precious child of mine.
 
