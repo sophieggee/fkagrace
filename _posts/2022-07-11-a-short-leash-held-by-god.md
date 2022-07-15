@@ -6,7 +6,7 @@ categories: documentation
 tags: [documentation,sample]
 image: leash-by-god.JPEG
 ---
-## Far From Ground-Breaking Revelations:
+## Some Far From Ground-Breaking Revelations:
 
 I feel certain that the worship of a higher power is necessary for optimal progression in this life. And because I feel this about the world, I see submissions to deity everywhere I look.
 
@@ -18,7 +18,7 @@ I am not unique in my yearning for truth and direction.
 
 <br/>
 
-And, although I have been told countless times, in countless ways, that this is precisely what God can do for us, it takes daily, active recall and prayerful meditation to re-center myself around this reality. 
+And, although I have been told countless times, in countless ways, that this is precisely what God can do for us, it takes daily, active recall and prayerful meditation to re-center myself around this truth. 
 
 While living a life completely led by God and without any need for control in theory is the height of submission and peace, even the simple first steps of kneeling in sincere and honest prayer feel worlds away from me at times. 
 
@@ -32,7 +32,7 @@ I know that the steps to enter this divine transfer of power start with me creat
 
 I am no stranger to nesting. Each school year brings a whirlwind of excitement for me as I Pinterest-board-envision my way toward an ideal and sacred space to rest my head. Which makes the idea of creating something similar in my life for God that much more enticing. 
 
-If I can create a space within myself and in my day of honestly, compassion, and vulnerability as I open myself to posing and receiving answers from God (reading holy texts, meditating on poems, walking outside without headphones: strengthening the signal of divinity), then I will be able to humble myself in worship in a way that eliminates my ego from the equations of interaction. 
+If I can create a space within myself and in my day of honesty, compassion, and vulnerability as I open myself to posing and receiving answers from God (reading holy texts, meditating on poems, walking outside without headphones: strengthening the signal of divinity), then I will be able to humble myself in worship in a way that eliminates my ego from the equations of interaction. 
 
 No longer will it be me making my decisions, but God.
 
