@@ -18,9 +18,9 @@ I am not unique in my yearning for truth and direction.
 
 <br/>
 
-And, although I have been told countless times, in countless ways, that this is precisely what God can do for us, it takes daily, active recall and prayerful meditation to re-center myself around this truth. 
+And although I have been told countless times, in countless ways, that this is precisely what God can do for us, it takes daily, active recall and prayerful meditation to re-center myself around this truth. 
 
-While living a life completely led by God and without any need for control in theory is the height of submission and peace, even the simple first steps of kneeling in sincere and honest prayer feel worlds away from me at times. 
+While living a life completely led by God and without any need for control, in theory is the height of submission and peace, even the simple first steps of kneeling in sincere and honest prayer feel worlds away from me at times. 
 
 <br/>
 
@@ -36,11 +36,11 @@ If I can create a space within myself and in my day of honesty, compassion, and 
 
 No longer will it be me making my decisions, but God.
 
-Sometimes, when the weight of the world feels particularly present, and I am at a loss for even the slightest inspiration of what to wear for the day – the notion of entertaining such a question feels frivolous – I put on my **All-White Jumpsuit**, and walk out into the day. 
+Sometimes, when the weight of the world feels particularly present, and I am at a loss for even the slightest inspiration of what to wear – the notion of entertaining such a question feels frivolous – I put on my **All-White Jumpsuit**, and walk out into the day. 
 
 In her daily two-way written prayer to God, _Eat, Pray, Love_ author Elizabeth Gilbert always asks, “Dear God, what would you have me know today?”.
 
-One particular May day, God responded with the words: “My favorite baby, I would have you know humility. I want you to know the sweetness and the deep, all-encompassing relief that humility will bring to your life. 
+One particular time, God responded with the words: “My favorite baby, I would have you know humility. I want you to know the sweetness and the deep, all-encompassing relief that humility will bring to your life. 
 
 “Ask me to do things for you; that is what humility is. Admit that you are powerless over everything, and life will get easier. Say, ‘God, here, you do it’, and open up your mouth and I will do it. 
 
@@ -52,7 +52,7 @@ One particular May day, God responded with the words: “My favorite baby, I wou
 
 “for you are mine, and I am thine.”
 
-My relationship with the God of my understanding is the most important one I have, and so often, it is neglected. But by taking the time out of every day, and leaving the space in every conversation, and allowing silence in my heart for God to dwell alongside me, I will be able to remember and tend to this relationship with more intention. 
+My relationship with the God of my understanding is the most important one I have and so often, it is neglected. But by taking the time out of every day, leaving the space in every conversation, and allowing silence in my heart for God to dwell alongside me, I will be able to remember and tend to this relationship with more intention. 
 
-And maybe one day, I will be dancing in the light of the sun, and I will realize that **it is God dancing me.**
+And maybe one day I will be dancing in the light of the sun, and I will realize that **it is God dancing me.**
 
