@@ -19,3 +19,11 @@ image: ten-commandments.JPEG
 8. Listen to [Blondie's "Heart of Glass"](https://open.spotify.com/track/4v2rkl1mC3zVAz0nXMx9r4?si=b6463e508b3d45ee) anytime you are awake and driving before the sun has risen.
 9. Go to the sale rack first.
 10. Never deny yourself the pleasure of holding both hands of a loved one as you tell them what you feel.
+
+<br/>
+
+My Microsoft Software Engineer Mentor reading this post at work:
+
+<br/>
+
+![Kirill](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/july/kirill.jpg "Kirill")
