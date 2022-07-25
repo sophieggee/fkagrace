@@ -13,7 +13,6 @@ It took recognizing the novelty of this simple act for me to realize just how ra
 
 That was the first time I remember looking freedom in her face. 
 
-<br/>
 
 The Eiffel Tower had only barely finished its hourly dance in the dark when Macy and I fell into an unspoken agreement that we would dance our whole way home. 
 
@@ -23,15 +22,12 @@ Paris at 11:00 pm was alive and warm in a way that made it feel only natural to 
 
 Catherine Zeta-Jones, the Parisian streetlights, and our bodies were putting on a very silly and nonsensical musical that our brains simply weren’t invited to. And the audience of nearby outdoor restaurant diners roared as our traveling show paraded by.
 
-<br/>
 
 The southern coast of France has a town named Ville-Franche Sur Mer which has orange-and-pink-painted restaurants and 12-year-old boys that giggle in french as they push each other into the afternoon sea. 
 
 I laid on the warm sand of the smile-shaped beach while the sun helped my skin and the water at my feet to sparkle in a proud and playful way. Macy even taught me how to fill my body up with enough air so that I could just float right there in the ocean’s glitter. 
 
 I probably could have floated in that bay forever as a sort of adornment of the sea like coral or a settled seashell, but whenever I would start to laugh, the air inside of me escaped and I would have to start the process all over again.
-
-<br/>
 
 On a recent summer walk around the lake, I came across a pink children’s picnic table that held a sign saying _“Please take me, I’m free”_, which made me imagine to myself that the table had finally uprooted itself from the confines of its previous entanglements. Enough so to declare itself as “free” and even reach out its hands in search of a new, more loving home’s embrace. 
 
@@ -47,4 +43,4 @@ I couldn’t help but recall my floating body in the calm waters of southern Fra
 ![Take Off Your Shirt When You Can](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/july/shirt-off.jpg "Take Off Your Shirt When You Can")
 ![I Laugh](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/july/smile.jpg "I Laugh")
 ![More Beach](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/july/beach-1.jpg "More Beach")
-![Wade in the Water](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/july/water-wading.jpg "Wade in the Water")
+![Wade in the Water](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/july/water-wading.JPG "Wade in the Water")
