@@ -24,6 +24,5 @@ image: ten-commandments.JPEG
 
 My Microsoft Software Engineer Mentor reading this post at work:
 
-<br/>
 
 ![Kirill](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/july/kirill.jpg "Kirill")
