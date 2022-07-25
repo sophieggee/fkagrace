@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Free by Angel Olsen"
-author: "a 5'11" girl named grace"
+author: "a five foot eleven inch girl"
 categories: documentation
 tags: [documentation,sample]
 image: freedom.JPEG
