@@ -26,3 +26,4 @@ My Microsoft Software Engineer Mentor reading this post at work:
 
 
 ![Kirill](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/july/kirill.jpg "Kirill")
+![Kirill Again](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/july/kirill-again.jpg "Kirill Again")
