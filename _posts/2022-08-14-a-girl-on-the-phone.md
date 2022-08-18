@@ -54,7 +54,7 @@ Reflecting on the progression of our new friendships with my summer-phone-call-f
 
     But that same night, driving home screaming a gnarly duet of [Carly Simon’s “You’re So Vain”](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba?si=68e1296b4547425c) with my freshly-wronged sister, I realized I entertain it often.
 
-    I am reminded of the origin story of one of my closest friendships (with someone whom I have the great fortune of being an in-person-friend to this summer). We often jokingly credit an ex-best friend of ours for our closeness. In our sophomore year of high school, we shared the unfortunate experience of being left high and dry by someone in whom we had invested far too much emotional currency.
+    I am reminded of the origin story of one of my closest friendships (with a strong and silly lady that I have the great fortune of being an in-person-friend to this summer). We often jokingly credit an ex-best friend of ours for our closeness. In our sophomore year of high school, we shared the unfortunate experience of being left high and dry by someone in whom we had invested far too much emotional currency.
 
     I remember feeling apprehensive about reaching out to my now best friend during this draining experience. And even shyer about crying in front of her. But I knew I couldn’t discuss the specifics with anyone else, and that she would be painfully familiar with my feelings. And I am so grateful I did. Processing this trauma alongside someone trustworthy enriched and validated the experience. And I felt what is arguably the most important feeling in any unprecedented event: seen. 
 
