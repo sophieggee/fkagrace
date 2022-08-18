@@ -32,7 +32,7 @@ So then it becomes a matter of combating these initial perceptions. I happen to 
 Reflecting on the progression of our new friendships with my summer-phone-call-friends has contributed some valuable insight that I will now share with you: the few, the brave, blog constituents. 
 
 
-**1. Asking for perspective on a personal problem helps to build trust and display humility.**
+1. **Asking for perspective on a personal problem helps to build trust and display humility.**
 
     In recounting the trajectory of my relationship with a more reserved and sophie-tentative labmate of mine, she mentioned that in the first couple of months of knowing me she “absolutely did not trust (me) at all”. She stated that there is, “no way someone can be that excited, that often” and chalked up my enthusiastic questioning to some twisted version of a _How to Win Friends and Influence People_ exercise left for the reader.
 
@@ -46,7 +46,7 @@ Reflecting on the progression of our new friendships with my summer-phone-call-f
 
     She’s a tough nut to crack, and I would argue that I’m still trying to win her over, but I do know that asking for her perspective contributed to the trust I’ve earned from her in a way that no amount of existential questioning could.
 
-**2. Experiencing shared catharsis can strengthen trust and understanding.**
+2. **Experiencing shared catharsis can strengthen trust and understanding.**
 
     This idea came from another summer-phone-call-friend of mine. His exact words were, “do you ever think that life wouldn’t be nearly as rich without catharsis specifically” followed by the caveat that, “obviously we don’t want to engineer situations that lead to it even if you might imagine that **experiencing catharsis with someone is the most alive you could be**” 
 
@@ -60,7 +60,7 @@ Reflecting on the progression of our new friendships with my summer-phone-call-f
 
     Not to mention the beautiful (and catharsis-rich) friendship it fostered.
 
-**3. Acknowledging the work and growth of another is far more important than recognizing existing strengths/talent.**
+3. **Acknowledging the work and growth of another is far more important than recognizing existing strengths/talent.**
 
     Sometimes, it’s not about the destination, but the friends we make along the way! Am I RIGHT, ladies!? 
 
