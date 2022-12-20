@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What to do with the Rest of You"
+title: "What To Do With the Rest of You"
 author: "inhabitant of flight A1056"
 categories: documentation
 tags: [documentation,sample]
