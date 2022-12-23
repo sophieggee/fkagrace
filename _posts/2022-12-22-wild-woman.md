@@ -6,7 +6,7 @@ categories: documentation
 tags: [documentation,sample]
 image: geranium.JPEG
 ---
-The concept of wildness has been enticing to me ever since I heard Mitski sing that “[**"wild women don't get the blues"**](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr?si=0ec8c8c808cc4a48)”. Sign me up. But “wild” is one of those words that gets stuck in my throat. 
+The concept of wildness has been enticing to me ever since I heard Mitski sing that “[**wild women don't get the blues**](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr?si=0ec8c8c808cc4a48)”. Sign me up. But “wild” is one of those words that gets stuck in my throat. 
 
 I have always had an innate propensity to perform. I put on plays and choreographed dance routines. And I didn’t usually let authority rain too heavily on my childhood parades. My parents often quote my 8-year-old self when describing the nature of my relationship with my father to my mom. I thought about it for a while and said, “sometimes I hear what dad says and think: ‘do I agree with that?’ and if I do, I’ll listen and if not, I don’t”. 
 
